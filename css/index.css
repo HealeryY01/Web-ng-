@@ -168,7 +168,9 @@ body {
 }
 
 #P2 .dd__p__bg,
-#P3 .dd__p__bg {
+#P3 .dd__p__bg,
+#P4 .dd__p__bg,
+#P5 .dd__p__bg {
     background-size: cover;
     background-position: 50% 0%;
     background-repeat: repeat;
@@ -292,7 +294,8 @@ body {
 #dk1 .dd__dk,
 #dk2 .dd__dk,
 #dk3 .dd__dk,
-#dk5 .dd__dk {
+#dk5 .dd__dk,
+#dk7 .dd__dk {
     height: 100%;
     padding: 0px 8px;
 }
@@ -355,7 +358,8 @@ body {
     left: 400px;
 }
 
-#dk4 .dd__dk {
+#dk4 .dd__dk,
+#dk6 .dd__dk {
     height: 100%;
     padding: 8px 0px;
 }
@@ -378,7 +382,8 @@ body {
     left: 590px;
 }
 
-#cn1.dd__hh .dd__cn {
+#cn1.dd__hh .dd__cn,
+#cn29.dd__hh .dd__cn {
     animation-name: healer;
     animation-delay: 1s;
     animation-duration: 1s;
@@ -410,7 +415,7 @@ body {
     overflow: hidden;
 }
 
-#cn1 .dd__cn .dd__cn__bg {
+#cn1 .dd__cn .dd__cn__bg{
     background-color: rgb(248, 3, 129);
 }
 
@@ -435,7 +440,7 @@ body {
     display: table;
 }
 
-#cn__c1 .dd__md {
+#cn__c1 .dd__md{
     font-size: 28px;
     font-family: 'Trirong', serif;
     font-weight: bold;
@@ -743,7 +748,7 @@ body {
 #md17 .dd__md,
 #md18 .dd__md,
 #md19 .dd__md,
-#md20 .dd__md  {
+#md20 .dd__md {
     font-family: 'Sriracha', 'cursive';
     font-size: 21px;
     font-weight: bold;
@@ -902,11 +907,13 @@ body {
     top: 29px;
     left: 0px;
 }
+
 #dv22 {
     width: 92px;
     top: 58px;
     left: 127px;
 }
+
 #dv22 .dd__dv {
     font-family: 'Trirong', serif;
     font-size: 13px;
@@ -915,17 +922,20 @@ body {
     text-decoration-line: underline;
     text-align: justify;
 }
+
 #n12 {
     width: 510px;
     height: 106px;
     top: 309px;
     left: 594px;
 }
+
 #dv23 {
     width: 209px;
     top: 5px;
     left: 0px;
 }
+
 #dv23 .dd__dv {
     font-family: 'Trirong', serif;
     font-size: 15px;
@@ -933,17 +943,20 @@ body {
     line-height: 1.6;
     color: rgb(0, 0, 0);
 }
+
 #md20 {
     width: 148px;
     left: 190px;
     top: 0;
 }
+
 #dv24 {
     width: 510px;
     top: 34px;
     left: 0px;
 }
-#n13{
+
+#n13 {
     width: 1105px;
     height: 550px;
     top: 1130px;
@@ -976,23 +989,28 @@ body {
     border-bottom: 12px solid transparent;
     border-left: 20px solid rgb(250, 69, 135);
 }
+
 #k1 {
     width: 280px;
     height: 228px;
     top: 65px;
 }
+
 #anh11 {
     width: 85px;
     height: 83px;
     left: 95px;
 }
+
 #anh11 .dd__anh .dd__anh__bg {
     background-image: url(../img/logo/dai-hoc-kien-hanh-20230412081506-pgx7h.jpg);
 }
+
 #dv26 {
     top: 95px;
     left: 8px;
 }
+
 #dv26 .dd__dv,
 #dv27 .dd__dv,
 #dv29 .dd__dv,
@@ -1000,28 +1018,32 @@ body {
 #dv32 .dd__dv,
 #dv33 .dd__dv,
 #dv34 .dd__dv,
-#dv35 .dd__dv{
+#dv35 .dd__dv {
     font-size: 17px;
     font-family: serif;
     line-height: 1.6;
     color: rgb(0, 0, 0);
     text-align: justify;
 }
+
 #k2 {
     width: 280px;
     height: 228px;
     top: 65px;
     left: 295px;
 }
+
 #anh12 {
     width: 214px;
     height: 52px;
     top: 15px;
     left: 38px;
 }
+
 #anh12 .dd__anh .dd__anh__bg {
     background-image: url(../img/logo/cong-ty-lawson-20230412081506-92zay.jpg);
 }
+
 #n14 {
     width: 228px;
     height: 109px;
@@ -1034,6 +1056,7 @@ body {
     top: 85px;
     left: 40px;
 }
+
 #dv28 .dd__dv,
 #dv30 .dd__dv {
     font-family: 'Trirong', serif;
@@ -1049,58 +1072,70 @@ body {
     top: 65px;
     left: 595px;
 }
+
 #anh13 {
     width: 160px;
     height: 52px;
     top: 15px;
     left: 38px
 }
+
 #anh13 .dd__anh .dd__anh__bg {
     background-image: url(../img/logo/thaco-20230412081553-_qo8j.png);
 }
+
 #n15 {
     width: 228px;
     height: 109px;
     top: 93px;
     left: 10px;
 }
+
 #dv30 {
     width: 142px;
     top: 85px;
     left: 0px;
 }
+
 #k4 {
     width: 280px;
     height: 228px;
     left: 870px;
     top: 65px;
 }
+
 #anh14 {
     width: 137px;
     height: 91px;
     top: -15px;
     left: 65px;
 }
+
 #anh14 .dd__anh .dd__anh__bg {
     background-image: url(../img/logo/fpt-20230418092942-2copj.jpg);
 }
+
 #dv31 {
     top: 95px;
     left: 8px;
 }
+
 #k5 {
     width: 230px;
     height: 228px;
     top: 340px;
 }
+
 #anh15 {
     width: 122px;
     height: 81px;
     left: 65px;
 }
+
 #anh15 .dd__anh .dd__anh__bg {
     background-image: url(../img/logo/vinmec-20230418084142--j8nw.jpg);
 }
+
 #dv32 {
     top: 110px;
     left: 8px;
@@ -1112,34 +1147,41 @@ body {
     top: 341px;
     left: 314px;
 }
+
 #anh16 {
     width: 119px;
     height: 117px;
     top: -30px;
     left: 52px;
 }
+
 #anh16 .dd__anh .dd__anh__bg {
     background-image: url(../img/logo/benh-vien-thanh-nhan-20230418084142-cmih1.png);
 }
+
 #dv33 {
     top: 110px;
     left: 8px;
 }
+
 #k7 {
     width: 230px;
     height: 228px;
     top: 341px;
     left: 602px;
 }
+
 #anh17 {
     width: 116px;
     height: 120px;
     top: -25px;
     left: 45px;
 }
+
 #anh17 .dd__anh .dd__anh__bg {
     background-image: url(../img/logo/metropole-logo-20230418084142-9s_wq.png);
 }
+
 #dv34 {
     top: 110px;
     left: 8px;
@@ -1151,47 +1193,57 @@ body {
     top: 341px;
     left: 890px;
 }
+
 #anh18 {
     width: 115px;
     height: 113px;
     top: -25px;
     left: 45px;
 }
+
 #anh18 .dd__anh .dd__anh__bg {
     background-image: url(../img/logo/hanoi-daewoo-hotel-hanoi-luxury-5-star-hotel-best-hanoi-hotels-20230418084142-yo3vj.jpg);
 }
+
 #dv35 {
     top: 110px;
     left: 8px;
 }
 
 
-#P3{
+#P3 {
     height: 310px;
 }
+
 #P3 .dd__p__bg {
     background-image: url(../img/background/340840073_1351360512308842_6098294307609843376_n-20230412123607-dfsfn.jpg);
 }
-#n16,#h5 {
+
+#n16,
+#h5 {
     width: 1228px;
     height: 312px;
     left: 219px;
 }
+
 #h5 .dd__h:hover {
     opacity: 1;
     filter: blur(0px);
 }
+
 #h5 .dd__h {
     background-color: rgb(255, 255, 255);
     border-radius: 0px;
     opacity: 0.85;
     filter: sepia(31%) blur(15px);
 }
+
 #dv36 {
     width: 474px;
     top: 55px;
     left: 305px;
 }
+
 #dv36 .dd__dv {
     font-family: serif;
     font-size: 23px;
@@ -1199,11 +1251,13 @@ body {
     line-height: 1.6;
     color: rgb(244, 1, 1);
 }
-#md21{
+
+#md21 {
     width: 366px;
     top: 30px;
     left: 972px;
 }
+
 #md21 .dd__md {
     font-family: serif;
     font-size: 18px;
@@ -1212,22 +1266,26 @@ body {
     color: rgb(244, 1, 1);
     text-align: center;
 }
+
 #h6 {
     top: 100px;
     left: 219px;
     width: 1228px;
     height: 36px;
 }
+
 #h6 .dd__h {
     background-color: rgb(217, 217, 217);
     border-radius: 0;
 }
+
 #dk5 {
     top: 100px;
     left: 820px;
     height: 205px;
 }
-#dk5  .dd__dk .dd__dk__container {
+
+#dk5 .dd__dk .dd__dk__container {
     border-top: 0px !important;
     border-right: 3px solid rgb(0, 0, 0);
     border-bottom: 3px solid rgb(0, 0, 0);
@@ -1239,32 +1297,420 @@ body {
     left: 395px;
     width: 319px;
 }
-#dv37 .dd__dv , #dv38 .dd__dv {
+
+#dv37 .dd__dv,
+#dv38 .dd__dv {
     font-size: 17px;
     font-family: serif;
     font-weight: bold;
     line-height: 1.6;
     color: rgb(0, 0, 0);
 }
+
 #dv38 {
     top: 118px;
     left: 978px;
     width: 301px;
 }
+
 #dv39 {
     width: 515px;
     top: 167px;
     left: 300px;
 }
+
 #dv39 .dd__dv,
-#dv40 .dd__dv{
+#dv40 .dd__dv {
     font-size: 17px;
-    font-family: serif; 
+    font-family: serif;
     line-height: 1.6;
     color: rgb(0, 0, 0);
 }
+
 #dv40 {
     width: 515px;
     top: 167px;
     left: 900px;
+}
+
+#P4 {
+    height: 1150px;
+}
+
+#P4 .dd__p__bg {
+    background-image: url(../img/background/340840073_1351360512308842_6098294307609843376_n-20230412123607-dfsfn.jpg);
+}
+
+#h7 {
+    width: 1242px;
+    height: 1150px;
+    top: 0px;
+    left: 440px;
+}
+
+#h7 .dd__h:hover {
+    opacity: 1;
+    filter: blur(0px);
+}
+
+#h7 .dd__h {
+    background-color: rgb(255, 255, 255);
+    opacity: 0.85;
+    filter: blur(21px);
+    border-radius: 15px;
+}
+
+#md22 {
+    width: 746px;
+    top: 30px;
+    left: 665px;
+}
+
+#md22 .dd__md {
+    font-size: 27px;
+    font-family: serif;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#cn2 {
+    width: 350px;
+    height: 62px;
+    top: 120px;
+    left: 500px;
+}
+#cn2 .dd__cn .dd__cn__bg,
+#cn3 .dd__cn .dd__cn__bg,
+#cn4 .dd__cn .dd__cn__bg,
+#cn5 .dd__cn .dd__cn__bg,
+#cn6 .dd__cn .dd__cn__bg,
+#cn7 .dd__cn .dd__cn__bg,
+#cn8 .dd__cn .dd__cn__bg,
+#cn9 .dd__cn .dd__cn__bg,
+#cn10 .dd__cn .dd__cn__bg,
+#cn11 .dd__cn .dd__cn__bg,
+#cn12 .dd__cn .dd__cn__bg,
+#cn13 .dd__cn .dd__cn__bg,
+#cn14 .dd__cn .dd__cn__bg,
+#cn15 .dd__cn .dd__cn__bg,
+#cn16 .dd__cn .dd__cn__bg,
+#cn17 .dd__cn .dd__cn__bg,
+#cn18 .dd__cn .dd__cn__bg,
+#cn19 .dd__cn .dd__cn__bg,
+#cn20 .dd__cn .dd__cn__bg,
+#cn21 .dd__cn .dd__cn__bg,
+#cn22 .dd__cn .dd__cn__bg,
+#cn23 .dd__cn .dd__cn__bg,
+#cn24 .dd__cn .dd__cn__bg,
+#cn25 .dd__cn .dd__cn__bg,
+#cn26 .dd__cn .dd__cn__bg,
+#cn27 .dd__cn .dd__cn__bg,
+#cn28 .dd__cn .dd__cn__bg {
+    background-color: rgb(1, 133, 1);
+    transition: all 150ms linear 0s;
+}
+#cn2 .dd__cn,
+#cn3 .dd__cn,
+#cn4 .dd__cn,
+#cn5 .dd__cn,
+#cn6 .dd__cn,
+#cn7 .dd__cn,
+#cn8 .dd__cn,
+#cn9 .dd__cn,
+#cn10 .dd__cn,
+#cn11 .dd__cn,
+#cn12 .dd__cn,
+#cn13 .dd__cn,
+#cn14 .dd__cn,
+#cn15 .dd__cn,
+#cn16 .dd__cn,
+#cn17 .dd__cn,
+#cn18 .dd__cn,
+#cn19 .dd__cn,
+#cn20 .dd__cn,
+#cn21 .dd__cn,
+#cn22 .dd__cn,
+#cn23 .dd__cn,
+#cn24 .dd__cn,
+#cn25 .dd__cn,
+#cn26 .dd__cn,
+#cn27 .dd__cn,
+#cn28 .dd__cn,
+#cn29 .dd__cn{
+    border-radius: 15px;
+}
+#cn__c2 .dd__md,
+#cn__c3 .dd__md,
+#cn__c4 .dd__md,
+#cn__c5 .dd__md,
+#cn__c6 .dd__md,
+#cn__c7 .dd__md,
+#cn__c8 .dd__md,
+#cn__c9 .dd__md,
+#cn__c10 .dd__md,
+#cn__c11 .dd__md,
+#cn__c12 .dd__md,
+#cn__c13 .dd__md,
+#cn__c14 .dd__md,
+#cn__c15 .dd__md,
+#cn__c16 .dd__md,
+#cn__c17 .dd__md,
+#cn__c18 .dd__md,
+#cn__c19 .dd__md,
+#cn__c20 .dd__md,
+#cn__c21 .dd__md,
+#cn__c22 .dd__md,
+#cn__c23 .dd__md,
+#cn__c24 .dd__md,
+#cn__c25 .dd__md,
+#cn__c26 .dd__md,
+#cn__c27 .dd__md,
+#cn__c28 .dd__md,
+#cn__c29 .dd__md {
+    font-family: serif;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+#cn3 {
+    width: 350px;
+    height: 62px;
+    top: 220px;
+    left: 500px;
+}
+#cn4 {
+    width: 350px;
+    height: 62px;
+    top: 320px;
+    left: 500px;
+}
+#cn5 {
+    width: 350px;
+    height: 62px;
+    top: 420px;
+    left: 500px;
+}
+#cn6 {
+    width: 350px;
+    height: 62px;
+    top: 520px;
+    left: 500px;
+}
+#cn7 {
+    width: 350px;
+    height: 62px;
+    top: 620px;
+    left: 500px;
+}
+#cn8 {
+    width: 350px;
+    height: 62px;
+    top: 720px;
+    left: 500px;
+}
+#cn9 {
+    width: 350px;
+    height: 62px;
+    top: 820px;
+    left: 500px;
+}
+#cn10 {
+    width: 350px;
+    height: 62px;
+    top: 920px;
+    left: 500px;
+}
+#cn11 {
+    width: 350px;
+    height: 62px;
+    top: 120px;
+    left: 900px;
+}
+#cn12 {
+    width: 350px;
+    height: 62px;
+    top: 220px;
+    left: 900px;
+}
+#cn13 {
+    width: 350px;
+    height: 62px;
+    top: 320px;
+    left: 900px;
+}
+#cn14 {
+    width: 350px;
+    height: 62px;
+    top: 420px;
+    left: 900px;
+}
+#cn15 {
+    width: 350px;
+    height: 62px;
+    top: 520px;
+    left: 900px;
+}
+#cn16 {
+    width: 350px;
+    height: 62px;
+    top: 620px;
+    left: 900px;
+}
+#cn17 {
+    width: 350px;
+    height: 62px;
+    top: 720px;
+    left: 900px;
+}
+#cn18 {
+    width: 350px;
+    height: 62px;
+    top: 820px;
+    left: 900px;
+}
+#cn19 {
+    width: 350px;
+    height: 62px;
+    top: 920px;
+    left: 900px;
+}
+#cn20 {
+    width: 350px;
+    height: 62px;
+    top: 120px;
+    left: 1290px;
+}
+#cn21 {
+    width: 350px;
+    height: 62px;
+    top: 220px;
+    left: 1290px;
+}
+#cn22 {
+    width: 350px;
+    height: 62px;
+    top: 320px;
+    left: 1290px;
+}
+#cn23 {
+    width: 350px;
+    height: 62px;
+    top: 420px;
+    left: 1290px;
+}
+#cn24 {
+    width: 350px;
+    height: 62px;
+    top: 520px;
+    left: 1290px;
+}
+#cn25 {
+    width: 350px;
+    height: 62px;
+    top: 620px;
+    left: 1290px;
+}
+#cn26 {
+    width: 350px;
+    height: 62px;
+    top: 720px;
+    left: 1290px;
+}
+#cn27 {
+    width: 350px;
+    height: 62px;
+    top: 820px;
+    left: 1290px;
+}
+#cn28 {
+    width: 350px;
+    height: 62px;
+    top: 920px;
+    left: 1290px;
+}
+#cn29 {
+    width: 400px;
+    height: 55px;
+    top: 1045px;
+    left: 880px;
+}
+#cn29 .dd__cn .dd__cn__bg {
+    background-color: rgb(248, 1, 1);
+}
+
+#P5 {
+    height: 1645px;
+}
+
+#P5 .dd__p__bg {
+    background-image: url(../img/background/340840073_1351360512308842_6098294307609843376_n-20230412123607-dfsfn.jpg);
+}
+#h8 {
+    width: 1242px;
+    height: 1615px;
+    top: 0px;
+    left: 440px;
+}
+#h8 .dd__h {
+    background-color: rgb(246, 144, 182);
+    border-radius: 0px;
+}
+#hd4 {
+    top: 0 ;
+    left: 0;
+    font-size: 70px;
+}
+#dv41{
+    width: 500px;
+    height: 70px;
+    top: 30px;
+    left: 500px;
+}
+#dv42 {
+    top: -4px;
+    left: 100px;
+    width: 469px;
+}
+#dv42 .dd__dv {
+    font-size: 29px;
+    font-family: serif;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+}
+#dv43 {
+    top: 35px;
+    left: 100px;
+    width: 469px;
+}  
+#dv43 .dd__dv {
+    font-family: serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+}
+#dk6 {
+    width: 1100px;
+    top: 100px;
+    left: 490px;;
+}
+#dk6 .dd__dk .dd__dk__container {
+    border-top: 3px dotted rgb(1, 1, 1);
+    border-right: 3px dotted rgb(1, 1, 1);
+    border-bottom: 3px dotted rgb(1, 1, 1);
+    border-left: 0px !important;
+}
+#dk7 {
+    height: 369px;
+    top: 120px;
+    left: 1040px;
+}
+#dk7 .dd__dk .dd__dk__container {
+    border-top: 0px !important;
+    border-right: 3px dashed rgb(1, 1, 1);
+    border-bottom: 3px dashed rgb(1, 1, 1);
+    border-left: 3px dashed rgb(1, 1, 1);
 }
