@@ -383,11 +383,13 @@ body {
 }
 
 #cn1.dd__hh .dd__cn,
-#cn29.dd__hh .dd__cn {
+#cn29.dd__hh .dd__cn,
+#cn30.dd__hh .dd__cn {
     animation-name: healer;
     animation-delay: 1s;
     animation-duration: 1s;
     animation-iteration-count: infinite;
+    cursor: pointer;
 }
 
 @keyframes healer {
@@ -415,7 +417,7 @@ body {
     overflow: hidden;
 }
 
-#cn1 .dd__cn .dd__cn__bg{
+#cn1 .dd__cn .dd__cn__bg {
     background-color: rgb(248, 3, 129);
 }
 
@@ -440,7 +442,7 @@ body {
     display: table;
 }
 
-#cn__c1 .dd__md{
+#cn__c1 .dd__md {
     font-size: 28px;
     font-family: 'Trirong', serif;
     font-weight: bold;
@@ -1374,12 +1376,14 @@ body {
     color: rgb(0, 0, 0);
     text-align: center;
 }
+
 #cn2 {
     width: 350px;
     height: 62px;
     top: 120px;
     left: 500px;
 }
+
 #cn2 .dd__cn .dd__cn__bg,
 #cn3 .dd__cn .dd__cn__bg,
 #cn4 .dd__cn .dd__cn__bg,
@@ -1410,6 +1414,7 @@ body {
     background-color: rgb(1, 133, 1);
     transition: all 150ms linear 0s;
 }
+
 #cn2 .dd__cn,
 #cn3 .dd__cn,
 #cn4 .dd__cn,
@@ -1437,9 +1442,11 @@ body {
 #cn26 .dd__cn,
 #cn27 .dd__cn,
 #cn28 .dd__cn,
-#cn29 .dd__cn{
+#cn29 .dd__cn,
+#cn30 .dd__cn {
     border-radius: 15px;
 }
+
 #cn__c2 .dd__md,
 #cn__c3 .dd__md,
 #cn__c4 .dd__md,
@@ -1475,169 +1482,198 @@ body {
     color: rgb(255, 255, 255);
     text-align: center;
 }
+
 #cn3 {
     width: 350px;
     height: 62px;
     top: 220px;
     left: 500px;
 }
+
 #cn4 {
     width: 350px;
     height: 62px;
     top: 320px;
     left: 500px;
 }
+
 #cn5 {
     width: 350px;
     height: 62px;
     top: 420px;
     left: 500px;
 }
+
 #cn6 {
     width: 350px;
     height: 62px;
     top: 520px;
     left: 500px;
 }
+
 #cn7 {
     width: 350px;
     height: 62px;
     top: 620px;
     left: 500px;
 }
+
 #cn8 {
     width: 350px;
     height: 62px;
     top: 720px;
     left: 500px;
 }
+
 #cn9 {
     width: 350px;
     height: 62px;
     top: 820px;
     left: 500px;
 }
+
 #cn10 {
     width: 350px;
     height: 62px;
     top: 920px;
     left: 500px;
 }
+
 #cn11 {
     width: 350px;
     height: 62px;
     top: 120px;
     left: 900px;
 }
+
 #cn12 {
     width: 350px;
     height: 62px;
     top: 220px;
     left: 900px;
 }
+
 #cn13 {
     width: 350px;
     height: 62px;
     top: 320px;
     left: 900px;
 }
+
 #cn14 {
     width: 350px;
     height: 62px;
     top: 420px;
     left: 900px;
 }
+
 #cn15 {
     width: 350px;
     height: 62px;
     top: 520px;
     left: 900px;
 }
+
 #cn16 {
     width: 350px;
     height: 62px;
     top: 620px;
     left: 900px;
 }
+
 #cn17 {
     width: 350px;
     height: 62px;
     top: 720px;
     left: 900px;
 }
+
 #cn18 {
     width: 350px;
     height: 62px;
     top: 820px;
     left: 900px;
 }
+
 #cn19 {
     width: 350px;
     height: 62px;
     top: 920px;
     left: 900px;
 }
+
 #cn20 {
     width: 350px;
     height: 62px;
     top: 120px;
     left: 1290px;
 }
+
 #cn21 {
     width: 350px;
     height: 62px;
     top: 220px;
     left: 1290px;
 }
+
 #cn22 {
     width: 350px;
     height: 62px;
     top: 320px;
     left: 1290px;
 }
+
 #cn23 {
     width: 350px;
     height: 62px;
     top: 420px;
     left: 1290px;
 }
+
 #cn24 {
     width: 350px;
     height: 62px;
     top: 520px;
     left: 1290px;
 }
+
 #cn25 {
     width: 350px;
     height: 62px;
     top: 620px;
     left: 1290px;
 }
+
 #cn26 {
     width: 350px;
     height: 62px;
     top: 720px;
     left: 1290px;
 }
+
 #cn27 {
     width: 350px;
     height: 62px;
     top: 820px;
     left: 1290px;
 }
+
 #cn28 {
     width: 350px;
     height: 62px;
     top: 920px;
     left: 1290px;
 }
+
 #cn29 {
     width: 400px;
     height: 55px;
     top: 1045px;
     left: 880px;
 }
-#cn29 .dd__cn .dd__cn__bg {
+
+#cn29 .dd__cn .dd__cn__bg,
+#cn30 .dd__cn .dd__cn__bg {
     background-color: rgb(248, 1, 1);
 }
 
@@ -1648,32 +1684,38 @@ body {
 #P5 .dd__p__bg {
     background-image: url(../img/background/340840073_1351360512308842_6098294307609843376_n-20230412123607-dfsfn.jpg);
 }
+
 #h8 {
     width: 1242px;
     height: 1615px;
     top: 0px;
     left: 440px;
 }
+
 #h8 .dd__h {
     background-color: rgb(246, 144, 182);
     border-radius: 0px;
 }
+
 #hd4 {
-    top: 0 ;
+    top: 0;
     left: 0;
     font-size: 70px;
 }
-#dv41{
+
+#dv41 {
     width: 500px;
     height: 70px;
     top: 30px;
     left: 500px;
 }
+
 #dv42 {
     top: -4px;
     left: 100px;
     width: 469px;
 }
+
 #dv42 .dd__dv {
     font-size: 29px;
     font-family: serif;
@@ -1681,36 +1723,479 @@ body {
     line-height: 1.6;
     color: rgb(1, 1, 1);
 }
+
 #dv43 {
     top: 35px;
     left: 100px;
     width: 469px;
-}  
+}
+
 #dv43 .dd__dv {
     font-family: serif;
     font-size: 16px;
     line-height: 1.6;
     color: rgb(1, 1, 1);
 }
+
 #dk6 {
     width: 1100px;
     top: 100px;
-    left: 490px;;
+    left: 490px;
+    ;
 }
+
 #dk6 .dd__dk .dd__dk__container {
     border-top: 3px dotted rgb(1, 1, 1);
     border-right: 3px dotted rgb(1, 1, 1);
     border-bottom: 3px dotted rgb(1, 1, 1);
     border-left: 0px !important;
 }
+
 #dk7 {
     height: 369px;
     top: 120px;
     left: 1040px;
 }
+
 #dk7 .dd__dk .dd__dk__container {
     border-top: 0px !important;
     border-right: 3px dashed rgb(1, 1, 1);
     border-bottom: 3px dashed rgb(1, 1, 1);
     border-left: 3px dashed rgb(1, 1, 1);
+}
+
+#dv44 {
+    width: 510px;
+    top: 125px;
+    left: 515px;
+}
+
+#dv44 .dd__dv {
+    font-size: 18px;
+    font-family: serif;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+}
+
+#h9 {
+    width: 505px;
+    height: 300px;
+    top: 190px;
+    left: 515px;
+}
+
+#h9 .dd__h,
+#h10 .dd__h {
+    background-color: rgb(241, 243, 244);
+    border-radius: 0px;
+}
+
+#dv45 {
+    width: 385px;
+    top: 205px;
+    left: 575px;
+    ;
+}
+
+#dv45 .dd__dv {
+    font-size: 19px;
+    font-family: serif;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+}
+
+#cn30 {
+    width: 300px;
+    height: 50px;
+    top: 410px;
+    left: 615px;
+}
+
+#cn30 .dd__md {
+    font-size: 18px;
+    font-family: serif;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+    text-align: center;
+}
+
+#dv46 {
+    width: 470px;
+    top: 120px;
+    left: 1075px;
+}
+
+#dv46 .dd__dv {
+    font-size: 18px;
+    font-family: 'Trirong', serif;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+}
+
+#dv47 {
+    width: 516px;
+    height: 180px;
+    top: 155px;
+    left: 1080px;
+}
+
+#dv48 .dd__dv,
+#dv51 .dd__dv {
+    font-size: 18px;
+    font-family: serif;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+}
+
+#dv49 .dd__dv,
+#dv52 .dd__dv {
+    font-size: 19px;
+    font-family: serif;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+}
+
+#md23 {
+    width: 134px;
+    top: 30px;
+    left: 205px;
+}
+
+#md23 .dd__md,
+#md24 .dd__md {
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+    text-decoration-line: underline;
+    text-align: left;
+}
+
+#dv50 {
+    width: 516px;
+    height: 150px;
+    top: 340px;
+    left: 1080px;
+}
+
+#md24 {
+    width: 134px;
+    top: 30px;
+    left: 300px;
+}
+
+#h10 {
+    width: 1075px;
+    height: 756px;
+    top: 530px;
+    left: 515px;
+}
+
+#md25 {
+    width: 990px;
+    top: 540px;
+    left: 555px;
+}
+
+#md25 .dd__md {
+    font-size: 23px;
+    font-family: serif;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+    text-align: center;
+}
+
+#VIDEO1 {
+    width: 389px;
+    height: 219px;
+    top: 595px;
+    left: 625px;
+}
+
+.dd__video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+#VIDEO1 .dd__video .dd__video__bg {
+    background-image: url(https://img.youtube.com/vi/PHyKk-xJvRI/hqdefault.jpg);
+    background-size: cover;
+    background-origin: content-box;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+#md26 {
+    width: 310px;
+    top: 820px;
+    left: 685px;
+}
+
+#md26 .dd__md,
+#md27 .dd__md {
+    font-size: 18px;
+    text-align: left;
+    font-family: serif;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+}
+
+#VIDEO2 {
+    width: 389px;
+    height: 219px;
+    top: 595px;
+    left: 1100px;
+}
+
+#md27 {
+    width: 400px;
+    top: 820px;
+    left: 1100px;
+}
+
+#md28 {
+    width: 620px;
+    top: 865px;
+    left: 750px;
+}
+
+#md28 .dd__md {
+    font-size: 21px;
+    font-family: serif;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+#hd5 {
+    left: -45px;
+    font-size: 36px;
+}
+
+#md29 {
+    width: 200px;
+    height: 100px;
+    top: 912px;
+    left: 590px;
+}
+
+#md29 .dd__md {
+    font-size: 23px;
+    font-family: serif;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+#n17 {
+    width: 1016px;
+    height: 255px;
+    top: 965px;
+    left: 576px;
+}
+
+#n18 {
+    width: 987px;
+    height: 255px;
+}
+
+#anh19,
+#anh19 .dd__anh .dd__anh__bg,
+#anh20,
+#anh20 .dd__anh .dd__anh__bg,
+#anh21,
+#anh21 .dd__anh .dd__anh__bg {
+    width: 200px;
+    height: 135px;
+}
+
+#anh19 .dd__anh .dd__anh__bg {
+    background-image: url(../img/background/ts-20230523065322-omvx3.jpg);
+}
+
+#anh20 {
+    top: 0px;
+    left: 360px;
+}
+
+#anh20 .dd__anh .dd__anh__bg {
+    background-image: url(../img/background/0-2205-20230523065322-sv3hp.jpg);
+}
+
+#anh21 {
+    top: 0px;
+    left: 695px;
+}
+
+#anh21 .dd__anh .dd__anh__bg {
+    background-image: url(../img/background/meo-lam-bai-thi-trac-nghiem-03-20230523065322-rc_py.jpg);
+}
+
+#md30 {
+    top: 144px;
+    left: 0px;
+    width: 200px;
+}
+
+#md31 {
+    width: 295px;
+    top: 144px;
+    left: 321px;
+}
+
+#md32 {
+    width: 370px;
+    top: 144px;
+    left: 646px;
+}
+
+#md30 .dd__md,
+#md31 .dd__md,
+#md32 .dd__md {
+    font-size: 18px;
+    font-family: serif;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+    text-align: left;
+}
+
+#dv53 {
+    width: 251px;
+    top: 178px;
+    left: 0px;
+}
+
+#dv53 .dd__dv,
+#dv54 .dd__dv,
+#dv55 .dd__dv {
+    font-family: serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+    text-align: justify;
+}
+
+#dv54 {
+    width: 283px;
+    top: 178px;
+    left: 324px;
+}
+
+#dv55 {
+    width: 340px;
+    top: 178px;
+    left: 647px;
+}
+
+#dv56 {
+    width: 80px;
+    top: 229px;
+    left: 120px;
+}
+#dv57 {
+    width: 80px;
+    top: 229px;
+    left: 369px;
+}
+#dv58 {
+    width: 80px;
+    top: 203px;
+    left: 860px;
+}
+#dv56 .dd__dv,
+#dv57 .dd__dv,
+#dv58 .dd__dv {
+    font-family: serif;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(0, 0, 0);
+    text-decoration-line: underline;
+}
+#n19 {
+    width: 355px;
+    height: 75px;
+    top: 1310px;
+    left: 535px;
+}
+#md33 {
+    width: 264px;
+    top: 0px;
+    left: 45.5px;
+}
+#md33 .dd__md {
+    font-family: serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+    text-align: center;
+}
+#md34 {
+    width: 355px;
+    top: 38px;
+    left: 0px;
+}
+#md34 .dd__md {
+    font-family: serif;
+    font-size: 23px;
+    font-weight: bold;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+    text-align: center;
+}
+#dv59 {
+    width: 524px;
+    top: 1400px;
+    left: 535px;
+}
+#dv59 .dd__dv {
+    font-size: 18px;
+    font-family: serif;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+}
+#dv60 {
+    width: 400px;
+    top: 1540px;
+    left: 535px;
+}
+#dv60 .dd__dv {
+    font-size: 18px;
+    font-family: serif;
+    line-height: 1.6;
+    color: rgb(1, 1, 1);
+    text-decoration-line: underline;
+}
+.dd__html__code {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+#HTML_CODE1 {
+    width: 389px;
+    height: 259px;
+    top: 1305px;
+    left: 1127px;
+}
+
+
+
+
+
+/* Media */
+@media screen and (min-width: 768px) {
+
 }
